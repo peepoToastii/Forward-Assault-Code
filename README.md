@@ -4,6 +4,7 @@
 
 | PromoCode | Username     |
 | --------- | ------------ |
+| Toast     | Toastii      |
 | Ivoryf    | PC-Elphelt   |
 | WAR9X     | Warlock9x    |
 | L7007     | Melhor       |
@@ -16,7 +17,6 @@
 | Lexuh     | Yz           |
 | itaMaloka | itsMalai     |
 | 1111      | PC-vTesla    |
-| Toast     | Toastii      |
 | dopik     | FaggisIsMonkey|
 | Sheq      | kratosismyfather |
 | ghost     | Ghost        |
